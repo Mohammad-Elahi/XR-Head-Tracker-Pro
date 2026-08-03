@@ -1,4 +1,4 @@
-# [XR Head Tracker Pro](https://github.com/Mohammad-Elahi/MetaQuest_XRHeadTracker_Pro)
+# [Head Tracker Pro](https://github.com/Mohammad-Elahi/MetaQuest_XRHeadTracker_Pro)
 
 ## Overview
 Head Tracker Pro is a professional research tool developed at [the Vodafone Chair for Mobile Communications Systems at TU Dresden.](https://www.vodafone-chair.org/)
