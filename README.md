@@ -22,30 +22,6 @@ https://github.com/user-attachments/assets/55aaed45-5ab6-4722-95a9-365fe2d8367e
 
 Note: After exiting the app, you must restart the headset. Once restarted, you can find the CSV file in the Download folder.
 
-
-
-## Author
-
-Mohammad Elahi, Research Assistant at Vodafone Chair for Mobile Communications Systems, TU Dresden, mohammad.elahi@mailbox.tu-dresden.de
-
-## How to Cite
-
-If you use this software in your research, please cite it as follows:
-Elahi, M. (2024). XR Head Tracker Pro: A professional research tool for head-tracking data collection with Meta Quest headsets. GitHub: https://github.com/Mohammad-Elahi/XR-Head-Tracker-Pro
-
-For BibTeX:
-
-```
-@software{Elahi2024XRTracker,
-  author = {Elahi, Mohammad},
-  title = {XR Head Tracker Pro: A professional research tool for head-tracking data collection with Meta Quest headsets},
-  year = {2024},
-  publisher = {GitHub},
-  url = {https://github.com/Mohammad-Elahi/MetaQuest_XRHeadTracker_Pro},
-  institution = {Vodafone Chair for Mobile Communications Systems, TU Dresden}
-}
-```
-
 ## Build Instructions
 
 ### Prerequisites
@@ -68,3 +44,26 @@ cd Projects/Android
 ```
 The APK will be generated in `Projects/Android/build/outputs/apk/debug/`.
 
+---
+
+## Author
+
+Mohammad Elahi, Research Assistant at Vodafone Chair for Mobile Communications Systems, TU Dresden, mohammad.elahi@mailbox.tu-dresden.de
+
+## How to Cite
+
+If you use this software in your research, please cite it as follows:
+Elahi, M. (2024). XR Head Tracker Pro: A professional research tool for head-tracking data collection with Meta Quest headsets. GitHub: https://github.com/Mohammad-Elahi/XR-Head-Tracker-Pro
+
+For BibTeX:
+
+```
+@software{Elahi2024XRTracker,
+  author = {Elahi, Mohammad},
+  title = {XR Head Tracker Pro: A professional research tool for head-tracking data collection with Meta Quest headsets},
+  year = {2024},
+  publisher = {GitHub},
+  url = {https://github.com/Mohammad-Elahi/MetaQuest_XRHeadTracker_Pro},
+  institution = {Vodafone Chair for Mobile Communications Systems, TU Dresden}
+}
+```
