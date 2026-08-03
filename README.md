@@ -1,7 +1,7 @@
 # [XR Head Tracker Pro](https://github.com/Mohammad-Elahi/MetaQuest_XRHeadTracker_Pro)
 
 ## Overview
-XR Head Tracker Pro is a professional research tool developed at [the Vodafone Chair for Mobile Communications Systems at TU Dresden.](https://www.vodafone-chair.org/)
+Head Tracker Pro is a professional research tool developed at [the Vodafone Chair for Mobile Communications Systems at TU Dresden.](https://www.vodafone-chair.org/)
 
 This Android NDK C++ application leverages the [Meta OpenXR SDK](https://developers.meta.com/horizon/downloads/package/oculus-openxr-mobile-sdk/) to capture and log head-tracking data from Meta Quest headsets, featuring real-time Passthrough visualization. 
 
